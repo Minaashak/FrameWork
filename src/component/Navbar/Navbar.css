@@ -1,0 +1,12 @@
+nav{
+    background-color:#2d3e50 ;
+    padding: 20px !important;
+}
+nav a{
+    color: white !important;
+
+}
+a active {
+    background-color: aqua;
+    color: white;
+}

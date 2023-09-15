@@ -1,0 +1,19 @@
+#about{
+    min-height: 100dvh;
+    display: flex;
+    align-items: center;
+    background-color:#1bbc9b ;
+}
+#about h2{
+    font-size: 46px;
+    font-weight: bold;
+}
+#about .line{
+    width: 220px;
+    height: 6px;
+    background-color: white;
+    margin: auto;
+    margin-bottom: 22px;
+    display: block;
+    margin: 26px auto;
+}

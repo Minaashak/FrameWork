@@ -1,0 +1,21 @@
+footer{
+    padding: 36px;
+    background-color: #2d3e50;
+}
+footer p , h2, i,h5{
+    color: white;
+}
+footer .icon i{
+    margin: 30px 12px;
+    font-size: 18px;
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 15px;
+    cursor: pointer;
+    
+}
+.copy{
+    background-color: #1b252f;
+    padding: 26px;
+    color: white;
+}

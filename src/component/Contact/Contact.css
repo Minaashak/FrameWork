@@ -1,0 +1,31 @@
+#contact{
+    min-height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#contact h2{
+    color: black;
+    font-size: 46px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+#contact .line{
+    width: 220px;
+    height: 6px;
+    background-color: black;
+    margin: auto;
+    margin-bottom: 32px;
+}
+#contact .form input{
+    margin-bottom: 46px;
+    border: none;
+    border-bottom: 1px solid;
+}
+#contact .form form button{
+    background-color: #1bbc9b;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+}
